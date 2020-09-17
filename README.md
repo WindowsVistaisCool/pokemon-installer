@@ -1,5 +1,5 @@
 # pokemon-installer
-GUI (for GNOME/KDE)/CGI (Debian/Ubuntu) for installing decompiled versions of Pokemon.
+GUI (for GNOME/KDE)/CLI (Debian/Ubuntu) for installing decompiled versions of Pokemon.
 
 ## TODO:
 - [ ] ADD GUI
@@ -8,7 +8,7 @@ GUI (for GNOME/KDE)/CGI (Debian/Ubuntu) for installing decompiled versions of Po
 - [ ] ADD GOLD/SILVER/CRYSTAL/RUBY/SAPPHIRE/EMERALD/FR/LG/DIAMOND? SUPPORT
 - [ ] ADD JAPAN VERSIONS
 - [ ] ADD YELLOW
-- [ ] EW CGI IS SO UGLY. ADD SOME COLORS?
+- [ ] EW CLI IS SO UGLY. ADD SOME COLORS?
 - [ ] FIX BOTH READMES
 - [ ] FIND GUI TEXT EDITOR READ ONLY
 - [ ] ADD SECRETS?
