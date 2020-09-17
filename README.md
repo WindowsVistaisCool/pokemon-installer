@@ -2,7 +2,7 @@
 GUI (for GNOME/KDE)/CLI (Debian/Ubuntu) for installing decompiled versions of Pokemon.
 
 ## TODO:
-- [ ] ADD GUI
+- [x] ADD GUI
 - [ ] SOME GH ONLINE CONTROL?
 - [ ] TEST ON DEBIAN SYSTEM
 - [ ] ADD GOLD/SILVER/CRYSTAL/RUBY/SAPPHIRE/EMERALD/FR/LG/DIAMOND? SUPPORT
