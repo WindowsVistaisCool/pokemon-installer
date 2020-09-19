@@ -1,5 +1,5 @@
 # pokemon-installer
-GUI (for GNOME/KDE)/CLI (Debian/Ubuntu) for installing decompiled versions of Pokemon. Also read [INSTALL.md](https://github.com/windowsvistaiscool/blob/html/INSTALL.md)
+GUI (for GNOME/KDE)/CLI (Debian/Ubuntu) for installing decompiled versions of Pokemon. Also read [INSTALL.md](https://github.com/windowsvistaiscool/pokemon-installer/blob/html/INSTALL.md)
 
 ## TODO:
 - [x] ADD GUI
